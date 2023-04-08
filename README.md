@@ -10,6 +10,7 @@ This is an in depth analysis of the Correctional Institutions of Ontario.
 Geographical information of Ontario's Provincial Correctional Institutions. The geographical information includes:
 
 -institution name
+
 -facility type
 -gender
 -region
