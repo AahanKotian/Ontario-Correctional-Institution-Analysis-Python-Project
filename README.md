@@ -12,17 +12,29 @@ Geographical information of Ontario's Provincial Correctional Institutions. The 
 -institution name
 
 -facility type
+
 -gender
+
 -region
+
 -street
+
 -city
+
 -province
+
 -country
+
 -postal code
+
 -latitude
+
 -longitude
+
 -operating status
+
 -year opened
+
 -year closed
 
 
