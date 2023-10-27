@@ -13,35 +13,8 @@ The 4 hypotheses we tested were:
 
 The first 3 of our hypotheses were proven correct but the result of the 4th was quite contrary to our expectations. We did not take into account the idea that there could be mixed Gender facilities for both Women and Men, those of which take up 20 out 35 of the total number correctional institutions in the province. Nonetheless, we learned quite a bit.
 
+The overview is below:
 
-Geographical information of Ontario's Provincial Correctional Institutions. The geographical information includes:
-
--institution name
-
--facility type
-
--gender
-
--region
-
--street
-
--city
-
--province
-
--country
-
--postal code
-
--latitude
-
--longitude
-
--operating status
-
--year opened
-
--year closed
+https://www.linkedin.com/feed/update/urn:li:activity:7020619140126150656/?orig
 
 
